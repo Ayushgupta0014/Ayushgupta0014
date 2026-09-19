@@ -107,8 +107,8 @@ Topics I'm working on:
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Coming Soon
-* 🌐 Portfolio: Coming Soon
+* 💼 LinkedIn: - [Ayush Gupta](https://www.linkedin.com/in/ayush-gupta-b88089308/)
+* 🌐 Portfolio: coming soon...
 * 🐙 GitHub: [Ayushgupta0014](https://github.com/Ayushgupta0014)
 
 ---
